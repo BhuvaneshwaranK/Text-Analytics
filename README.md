@@ -4,7 +4,7 @@
 
 **Frame**: What are the comments you are trying to understand?
 
-**Acquire**: **Refine**, **Explore**: Do Wordcloud, Lemmitization, Part of Speech Analysis and Entity Chunking.
+**Acquire**, **Refine**, **Explore**: Do Wordcloud, Lemmitization, Part of Speech Analysis and Entity Chunking.
 
 **Models**: TF-IDF, Topic modelling, Sentiment Analysis.
 
